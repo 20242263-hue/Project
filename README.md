@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Projects</title>
 </head>
 <body>
     <Center><table><img src="Profile Picture.png" height=120px width=120px</Center>
