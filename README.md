@@ -13,7 +13,6 @@
         <a href="mailto:someone@example.com">Home</a>&nbsp;
         <a href="mailto:someone@example.com">About</a>&nbsp;
         <a href="mailto:someone@example.com">Projects</a>
-    </Center>
     <h2>My Projects</h2>
 <h3><a href="mailto:someone@example.com">Web Development Projects</a></h3>
 <ul>
